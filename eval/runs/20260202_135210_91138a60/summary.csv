@@ -1,0 +1,1 @@
+run_id,timestamp_utc,question,latency_sec,num_sources,unique_source_urls,has_disclaimer_hint,answer_lists_sources_section,answer_mentions_any_source_url,grounding_overlap_titles,grounding_overlap_urls

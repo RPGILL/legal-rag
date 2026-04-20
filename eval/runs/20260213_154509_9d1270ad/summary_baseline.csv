@@ -1,0 +1,51 @@
+run_id,timestamp_utc,question,latency_sec,openai_model,topic,has_disclaimer_hint,answer_lists_sources_section,answer_urls_count,hallucinated_url_count,needs_citations_fail
+"20260213_154509_9d1270ad","2026-02-13T15:45:15.054189+00:00","My employer has not paid my holiday pay. What can I do?",5.902,"gpt-4.1-mini","holiday",True,True,2,0,False
+"20260213_154509_9d1270ad","2026-02-13T15:45:19.072665+00:00","How is holiday pay calculated if I work irregular hours?",4.016,"gpt-4.1-mini","holiday",True,True,2,0,False
+"20260213_154509_9d1270ad","2026-02-13T15:45:25.131646+00:00","Can my employer include holiday pay in my hourly rate?",6.05,"gpt-4.1-mini","holiday",True,True,2,0,False
+"20260213_154509_9d1270ad","2026-02-13T15:45:29.227915+00:00","I have taken annual leave but did not get paid for it. What are my rights?",4.087,"gpt-4.1-mini","holiday",True,True,2,0,False
+"20260213_154509_9d1270ad","2026-02-13T15:45:34.610686+00:00","How much holiday am I legally entitled to in the UK?",5.372,"gpt-4.1-mini","holiday",True,True,2,0,False
+"20260213_154509_9d1270ad","2026-02-13T15:45:38.879408+00:00","Does holiday continue to build up while I am off sick?",4.26,"gpt-4.1-mini","holiday",True,True,2,0,False
+"20260213_154509_9d1270ad","2026-02-13T15:45:43.580811+00:00","What happens to my unused holiday when I leave my job?",4.686,"gpt-4.1-mini","holiday",True,True,2,0,False
+"20260213_154509_9d1270ad","2026-02-13T15:45:49.131417+00:00","Can my employer refuse my holiday request?",5.54,"gpt-4.1-mini","holiday",True,True,2,0,False
+"20260213_154509_9d1270ad","2026-02-13T15:45:54.581230+00:00","Can my employer force me to take holiday?",5.437,"gpt-4.1-mini","holiday",True,True,2,0,False
+"20260213_154509_9d1270ad","2026-02-13T15:45:58.717240+00:00","Do part-time workers get holiday pay?",4.123,"gpt-4.1-mini","holiday",True,True,2,0,False
+"20260213_154509_9d1270ad","2026-02-13T15:46:02.462376+00:00","Can my employer pay me instead of giving me holiday?",3.737,"gpt-4.1-mini","holiday",True,True,2,0,False
+"20260213_154509_9d1270ad","2026-02-13T15:46:07.437356+00:00","Is rolled-up holiday pay legal in the UK?",4.964,"gpt-4.1-mini","holiday",True,True,2,0,False
+"20260213_154509_9d1270ad","2026-02-13T15:46:12.008587+00:00","My employer has not paid my wages on payday. What should I do?",4.56,"gpt-4.1-mini","pay",True,True,2,0,False
+"20260213_154509_9d1270ad","2026-02-13T15:46:17.169687+00:00","My employer deducted money from my wages without explaining why.",5.142,"gpt-4.1-mini","pay",True,True,3,0,False
+"20260213_154509_9d1270ad","2026-02-13T15:46:23.872212+00:00","I think I am being paid below minimum wage. What can I do?",6.694,"gpt-4.1-mini","pay",True,True,2,0,False
+"20260213_154509_9d1270ad","2026-02-13T15:46:28.193191+00:00","What can I do if my employer pays me late every month?",4.303,"gpt-4.1-mini","pay",True,True,2,0,False
+"20260213_154509_9d1270ad","2026-02-13T15:46:31.865777+00:00","Can my employer make deductions from my wages?",3.653,"gpt-4.1-mini","pay",True,True,2,0,False
+"20260213_154509_9d1270ad","2026-02-13T15:46:36.223439+00:00","My employer has not paid me for overtime. Is that legal?",4.347,"gpt-4.1-mini","pay",True,True,3,0,False
+"20260213_154509_9d1270ad","2026-02-13T15:46:40.031495+00:00","What should be included on my payslip?",3.794,"gpt-4.1-mini","pay",True,True,2,0,False
+"20260213_154509_9d1270ad","2026-02-13T15:46:46.017498+00:00","Can my employer withhold my final pay when I leave?",5.967,"gpt-4.1-mini","pay",True,True,2,0,False
+"20260213_154509_9d1270ad","2026-02-13T15:46:49.125926+00:00","What can I do if my employer owes me commission?",3.08,"gpt-4.1-mini","pay",True,True,2,0,False
+"20260213_154509_9d1270ad","2026-02-13T15:46:57.599431+00:00","Is it legal for my employer to charge me for training?",8.457,"gpt-4.1-mini","general",True,True,2,0,False
+"20260213_154509_9d1270ad","2026-02-13T15:47:01.554010+00:00","My employer says they overpaid me and wants the money back. What are my rights?",3.941,"gpt-4.1-mini","pay",True,True,2,0,False
+"20260213_154509_9d1270ad","2026-02-13T15:47:05.263165+00:00","Can my employer change my pay without telling me?",3.691,"gpt-4.1-mini","pay",True,True,2,0,False
+"20260213_154509_9d1270ad","2026-02-13T15:47:10.427975+00:00","What should I do if I have not been paid for work I have already done?",5.144,"gpt-4.1-mini","pay",True,True,2,0,False
+"20260213_154509_9d1270ad","2026-02-13T15:47:14.004466+00:00","I was dismissed without a meeting. Is that unfair dismissal?",3.551,"gpt-4.1-mini","dismissal",True,True,2,0,False
+"20260213_154509_9d1270ad","2026-02-13T15:47:19.842511+00:00","My employer dismissed me and refused to let me appeal.",5.76,"gpt-4.1-mini","dismissal",True,True,2,0,False
+"20260213_154509_9d1270ad","2026-02-13T15:47:23.930493+00:00","Can I be dismissed without notice?",4.067,"gpt-4.1-mini","dismissal",True,True,2,0,False
+"20260213_154509_9d1270ad","2026-02-13T15:47:28.450391+00:00","What is constructive dismissal?",4.503,"gpt-4.1-mini","dismissal",True,True,2,0,False
+"20260213_154509_9d1270ad","2026-02-13T15:47:31.594419+00:00","How long do I need to work somewhere to claim unfair dismissal?",3.119,"gpt-4.1-mini","dismissal",True,True,2,0,False
+"20260213_154509_9d1270ad","2026-02-13T15:47:35.961649+00:00","My employer says I was dismissed for poor performance. What are my rights?",4.338,"gpt-4.1-mini","dismissal",True,True,2,0,False
+"20260213_154509_9d1270ad","2026-02-13T15:47:39.566627+00:00","Can I be dismissed while on sick leave?",3.581,"gpt-4.1-mini","holiday",True,True,2,0,False
+"20260213_154509_9d1270ad","2026-02-13T15:47:43.359461+00:00","What should happen in a fair disciplinary process?",3.773,"gpt-4.1-mini","dismissal",True,True,2,0,False
+"20260213_154509_9d1270ad","2026-02-13T15:47:48.010926+00:00","Can I be made redundant without consultation?",4.613,"gpt-4.1-mini","general",True,True,3,3,True
+"20260213_154509_9d1270ad","2026-02-13T15:47:52.165735+00:00","What is the difference between redundancy and dismissal?",4.131,"gpt-4.1-mini","dismissal",True,True,2,0,False
+"20260213_154509_9d1270ad","2026-02-13T15:47:58.112929+00:00","My employer dismissed me for raising a complaint. Is this unfair?",5.922,"gpt-4.1-mini","dismissal",True,True,2,0,False
+"20260213_154509_9d1270ad","2026-02-13T15:48:03.050216+00:00","Can I challenge my dismissal at a tribunal?",4.916,"gpt-4.1-mini","dismissal",True,True,2,0,False
+"20260213_154509_9d1270ad","2026-02-13T15:48:06.803643+00:00","What should I do if I believe my dismissal was unfair?",3.728,"gpt-4.1-mini","dismissal",True,True,2,0,False
+"20260213_154509_9d1270ad","2026-02-13T15:48:11.341512+00:00","I was treated unfairly at work because of my religion. What are my rights?",4.517,"gpt-4.1-mini","discrimination",True,True,2,0,False
+"20260213_154509_9d1270ad","2026-02-13T15:48:15.151492+00:00","My manager is harassing me. Is this discrimination or harassment?",3.781,"gpt-4.1-mini","discrimination",True,True,2,0,False
+"20260213_154509_9d1270ad","2026-02-13T15:48:19.655219+00:00","What is workplace discrimination under the Equality Act 2010?",4.476,"gpt-4.1-mini","discrimination",True,True,2,0,False
+"20260213_154509_9d1270ad","2026-02-13T15:48:24.647436+00:00","Can I be treated differently because of my disability?",4.975,"gpt-4.1-mini","discrimination",True,True,2,0,False
+"20260213_154509_9d1270ad","2026-02-13T15:48:28.959171+00:00","What is victimisation at work?",4.278,"gpt-4.1-mini","discrimination",True,True,2,0,False
+"20260213_154509_9d1270ad","2026-02-13T15:48:32.479108+00:00","My employer ignored my complaint about discrimination. What can I do?",3.493,"gpt-4.1-mini","discrimination",True,True,2,0,False
+"20260213_154509_9d1270ad","2026-02-13T15:48:37.692029+00:00","Is bullying at work illegal?",5.189,"gpt-4.1-mini","general",True,True,3,3,True
+"20260213_154509_9d1270ad","2026-02-13T15:48:41.271493+00:00","What counts as harassment at work?",3.563,"gpt-4.1-mini","discrimination",True,True,2,0,False
+"20260213_154509_9d1270ad","2026-02-13T15:48:45.066058+00:00","Can my employer refuse reasonable adjustments for my disability?",3.778,"gpt-4.1-mini","discrimination",True,True,2,0,False
+"20260213_154509_9d1270ad","2026-02-13T15:48:48.619440+00:00","I was treated unfairly because of my race. What are my rights?",3.534,"gpt-4.1-mini","discrimination",True,True,2,0,False
+"20260213_154509_9d1270ad","2026-02-13T15:48:53.360294+00:00","Can I be dismissed for making a discrimination complaint?",4.721,"gpt-4.1-mini","dismissal",True,True,2,0,False
+"20260213_154509_9d1270ad","2026-02-13T15:48:57.394315+00:00","What should I do if I experience harassment at work?",4.014,"gpt-4.1-mini","discrimination",True,True,2,0,False

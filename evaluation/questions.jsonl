@@ -1,0 +1,54 @@
+{"id":"Q001","topic":"unpaid_wages","difficulty":"easy","question":"My employer has not paid my wages on payday. What should I do first?","expected_sources":["citizens_unpaid_wages","acas_pay"]}
+{"id":"Q002","topic":"unpaid_wages","difficulty":"medium","question":"My employer keeps paying me late every month. What steps can I take before legal action?","expected_sources":["citizens_unpaid_wages","acas_pay"]}
+{"id":"Q003","topic":"unpaid_wages","difficulty":"medium","question":"My payslip shows deductions I did not agree to. What can I do?","expected_sources":["citizens_unpaid_wages","acas_pay"]}
+{"id":"Q004","topic":"unpaid_wages","difficulty":"hard","question":"I think I have multiple underpayments over time. Is there a time limit to bring a claim?","expected_sources":["citizens_unpaid_wages"]}
+{"id":"Q005","topic":"nmw","difficulty":"easy","question":"How do I check if I’m being paid at least the National Minimum Wage?","expected_sources":["acas_nmw","acas_pay"]}
+{"id":"Q006","topic":"nmw","difficulty":"medium","question":"My employer says training time is unpaid. Can this take my pay below minimum wage?","expected_sources":["citizens_unpaid_wages","acas_nmw"]}
+{"id":"Q007","topic":"nmw","difficulty":"medium","question":"I’m an apprentice—what minimum wage applies to me?","expected_sources":["acas_nmw"]}
+{"id":"Q008","topic":"pay","difficulty":"easy","question":"Am I entitled to a payslip and what should it include?","expected_sources":["acas_pay"]}
+{"id":"Q009","topic":"pay","difficulty":"medium","question":"My employer says they overpaid me and is taking it back. Can they do that?","expected_sources":["citizens_unpaid_wages","acas_pay"]}
+{"id":"Q010","topic":"pay","difficulty":"hard","question":"My employer has gone out of business and still owes me wages. What should I do?","expected_sources":["citizens_unpaid_wages","acas_pay"]}
+
+{"id":"Q011","topic":"holiday_entitlement","difficulty":"easy","question":"How much paid holiday am I legally entitled to in the UK?","expected_sources":["gov_holiday_entitlement","acas_holiday_entitlement"]}
+{"id":"Q012","topic":"holiday_entitlement","difficulty":"easy","question":"Do part-time workers get holiday entitlement?","expected_sources":["gov_holiday_entitlement","acas_holiday_entitlement"]}
+{"id":"Q013","topic":"holiday_entitlement","difficulty":"medium","question":"I work irregular hours—how is my holiday entitlement built up?","expected_sources":["gov_holiday_entitlement","acas_holiday_entitlement"]}
+{"id":"Q014","topic":"holiday_pay","difficulty":"easy","question":"How is holiday pay calculated for statutory leave?","expected_sources":["gov_holiday_pay"]}
+{"id":"Q015","topic":"holiday_pay","difficulty":"medium","question":"My employer paid my holiday at a lower rate than normal. Is that allowed?","expected_sources":["gov_holiday_pay","acas_holiday"]}
+{"id":"Q016","topic":"holiday_pay","difficulty":"hard","question":"What does 'normal rate of pay' include for holiday pay (overtime/commission)?","expected_sources":["gov_holiday_pay"]}
+{"id":"Q017","topic":"holiday","difficulty":"easy","question":"Can bank holidays be included within the 5.6 weeks statutory holiday?","expected_sources":["gov_holiday_entitlement","acas_holiday_entitlement"]}
+{"id":"Q018","topic":"holiday","difficulty":"medium","question":"I’m off sick—does that affect my holiday entitlement?","expected_sources":["acas_holiday_entitlement","acas_holiday"]}
+{"id":"Q019","topic":"holiday","difficulty":"medium","question":"Can I carry over unused holiday?","expected_sources":["acas_holiday_entitlement"]}
+{"id":"Q020","topic":"holiday","difficulty":"hard","question":"My employer won’t let me take holiday I’ve accrued. What steps can I take?","expected_sources":["acas_holiday_entitlement","gov_holiday_entitlement"]}
+
+{"id":"Q021","topic":"dismissal","difficulty":"easy","question":"What is dismissal and what must an employer do for it to be fair?","expected_sources":["gov_dismissal","acas_dismissals"]}
+{"id":"Q022","topic":"dismissal","difficulty":"medium","question":"Do I have the right to written reasons for my dismissal?","expected_sources":["gov_dismissal","acas_dismissals"]}
+{"id":"Q023","topic":"dismissal","difficulty":"medium","question":"My employer dismissed me without notice. When can they do that?","expected_sources":["gov_dismissal","acas_dismissals"]}
+{"id":"Q024","topic":"dismissal","difficulty":"hard","question":"What is an appeal against dismissal and how does it work?","expected_sources":["acas_dismissals"]}
+{"id":"Q025","topic":"dismissal","difficulty":"medium","question":"My employer says they followed procedure but I think it was unfair. What matters?","expected_sources":["acas_dismissals","gov_dismissal"]}
+{"id":"Q026","topic":"dismissal","difficulty":"easy","question":"If I am pregnant or on maternity leave, do I have extra rights to written reasons?","expected_sources":["acas_dismissals","gov_dismissal"]}
+{"id":"Q027","topic":"dismissal","difficulty":"medium","question":"Can a part-time or fixed-term worker be treated less favourably in dismissal?","expected_sources":["gov_dismissal"]}
+{"id":"Q028","topic":"dismissal","difficulty":"hard","question":"What is a settlement agreement in a dismissal situation?","expected_sources":["acas_dismissals"]}
+{"id":"Q029","topic":"dismissal","difficulty":"medium","question":"My employer told colleagues details about my dismissal. Should that be confidential?","expected_sources":["acas_dismissals"]}
+{"id":"Q030","topic":"dismissal","difficulty":"easy","question":"What is the statutory minimum notice period?","expected_sources":["gov_dismissal"]}
+
+{"id":"Q031","topic":"discrimination","difficulty":"easy","question":"What are protected characteristics under the Equality Act 2010?","expected_sources":["gov_discrimination","acas_discrimination"]}
+{"id":"Q032","topic":"discrimination","difficulty":"easy","question":"What is direct discrimination at work?","expected_sources":["acas_discrimination"]}
+{"id":"Q033","topic":"discrimination","difficulty":"easy","question":"What is indirect discrimination at work?","expected_sources":["acas_discrimination"]}
+{"id":"Q034","topic":"discrimination","difficulty":"easy","question":"What is harassment at work?","expected_sources":["acas_discrimination"]}
+{"id":"Q035","topic":"discrimination","difficulty":"easy","question":"What is victimisation at work?","expected_sources":["acas_discrimination","gov_discrimination"]}
+{"id":"Q036","topic":"discrimination","difficulty":"medium","question":"What should I do if I think I’ve been discriminated against at work?","expected_sources":["acas_discrimination","gov_discrimination"]}
+{"id":"Q037","topic":"discrimination","difficulty":"medium","question":"What should an employer do when handling discrimination or bullying complaints?","expected_sources":["acas_discrimination"]}
+{"id":"Q038","topic":"discrimination","difficulty":"medium","question":"What can I do if I witness discrimination happening to someone else at work?","expected_sources":["acas_discrimination"]}
+{"id":"Q039","topic":"discrimination","difficulty":"hard","question":"What is ‘positive action’ and when is it allowed?","expected_sources":["gov_discrimination"]}
+{"id":"Q040","topic":"discrimination","difficulty":"medium","question":"I complained about discrimination and now I’m treated badly. What is that called?","expected_sources":["gov_discrimination","acas_discrimination"]}
+
+{"id":"Q041","topic":"pay_and_rights","difficulty":"easy","question":"Where can I get official help about pay and work rights?","expected_sources":["gov_pay_and_work_rights"]}
+{"id":"Q042","topic":"holiday_pay","difficulty":"hard","question":"If I’m paid monthly, how do I work out a week’s pay for holiday pay?","expected_sources":["gov_holiday_pay"]}
+{"id":"Q043","topic":"holiday_pay","difficulty":"hard","question":"What is rolled-up holiday pay and when can it be used?","expected_sources":["gov_holiday_pay"]}
+{"id":"Q044","topic":"holiday_entitlement","difficulty":"medium","question":"Is statutory paid holiday capped at 28 days even if I work 6 days a week?","expected_sources":["acas_holiday_entitlement","gov_holiday_entitlement"]}
+{"id":"Q045","topic":"holiday_entitlement","difficulty":"medium","question":"Do I accrue holiday during sick leave or maternity/paternity/adoption leave?","expected_sources":["acas_holiday_entitlement","gov_holiday_entitlement"]}
+{"id":"Q046","topic":"unpaid_wages","difficulty":"hard","question":"What evidence should I gather to show my employer owes me wages?","expected_sources":["citizens_unpaid_wages","acas_pay"]}
+{"id":"Q047","topic":"unpaid_wages","difficulty":"medium","question":"Should I keep working while trying to resolve unpaid wages?","expected_sources":["citizens_unpaid_wages"]}
+{"id":"Q048","topic":"nmw","difficulty":"medium","question":"What happens if deductions take my pay below minimum wage?","expected_sources":["citizens_unpaid_wages","acas_nmw"]}
+{"id":"Q049","topic":"holiday_pay","difficulty":"medium","question":"If I have less than 52 weeks of pay history, how is holiday pay calculated?","expected_sources":["gov_holiday_pay"]}
+{"id":"Q050","topic":"dismissal","difficulty":"medium","question":"If I ask for written reasons for dismissal, how quickly must my employer respond?","expected_sources":["gov_dismissal","acas_dismissals"]}

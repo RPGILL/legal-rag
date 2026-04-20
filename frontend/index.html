@@ -1,0 +1,63 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Employment Law Assistant</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 40px; max-width: 900px; }
+    textarea { width: 100%; padding: 10px; font-family: inherit; }
+    button { padding: 8px 16px; margin-top: 8px; }
+    #resp { white-space: pre-wrap; background: #f4f4f4; padding: 15px; border-radius: 4px; }
+    .sources a { display:block; margin-top:5px; word-break: break-all; }
+    .disclaimer { background: #fff8c4; padding:10px; border:1px solid #e5d46b; margin-bottom: 15px; }
+  </style>
+</head>
+<body>
+
+<h2>Employment Law Informational Assistant</h2>
+
+<div class="disclaimer">
+📌 This tool provides <strong>information only</strong> about UK employment law (unfair dismissal &amp; discrimination).  
+It is <strong>not legal advice</strong> and does not replace a qualified solicitor or ACAS/Citizens Advice.
+</div>
+
+<textarea id="q" rows="4"
+  placeholder="Ask your question about unfair dismissal or discrimination..."></textarea><br/>
+<button onclick="ask()">Ask</button>
+
+<h3>Answer:</h3>
+<div id="resp"></div>
+
+<h3>Sources:</h3>
+<div id="sources" class="sources"></div>
+
+<script>
+async function ask() {
+  const q = document.getElementById('q').value;
+  const respElem = document.getElementById('resp');
+  const srcElem = document.getElementById('sources');
+
+  respElem.textContent = 'Thinking...';
+  srcElem.innerHTML = '';
+
+  const res = await fetch('http://127.0.0.1:8000/ask', {
+    method: 'POST',
+    headers: {'Content-Type': 'application/json'},
+    body: JSON.stringify({question: q})
+  });
+
+  const j = await res.json();
+  respElem.textContent = j.answer || '(no answer)';
+
+  (j.sources || []).forEach(s => {
+    const a = document.createElement('a');
+    a.href = s.url;
+    a.textContent = `${s.title} - ${s.url}`;
+    a.target = "_blank";
+    srcElem.appendChild(a);
+  });
+}
+</script>
+
+</body>
+</html>

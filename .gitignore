@@ -1,0 +1,8 @@
+venv/
+venv_new/
+venv_hf_3_12_new/
+__pycache__/
+*.pyc
+.env
+.vscode/
+.idea/
