@@ -233,12 +233,6 @@ Response:
 
 ---
 
-## Research Purpose
-
-This project was developed as part of an Honours Individual Project investigating whether Retrieval-Augmented Generation (RAG) improves the reliability and transparency of AI-generated responses for UK employment law compared with a standard Large Language Model.
-
----
-
 ## Disclaimer
 
 This software is intended **for educational and research purposes only**.
